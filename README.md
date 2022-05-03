@@ -1,4 +1,5 @@
 # 0xMercvry
+![](https://komarev.com/ghpvc/?username=0xMercvry&color=grey)
 
 Hey! My name is Thomas, working as a web2 dev actually. Willing to improve my knowledges around web3 development and ecosystem by experimenting. 🧪🧑‍🔬
 

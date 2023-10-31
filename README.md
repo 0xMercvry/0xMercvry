@@ -1,12 +1,5 @@
-# 0xMercvry
-![](https://komarev.com/ghpvc/?username=0xMercvry&color=grey)
-
-Hey! My name is Thomas, working as a web2 dev actually. Willing to improve my knowledges around web3 development and ecosystem by experimenting. 🧪🧑‍🔬
-
-This account is made for creating experimental Web3 project for both Ethereum, L2's and Solana blockchains.
-
-## Current projects list
-- First #BuildInPublic project. A Ethereum Wallet Profiler 🔍
-- ...?
-
-Let's connect on Twitter [0xMercvry](https://twitter.com/0xMercvry) 🤝
+- 👋 Hi, I'm @0xMercvry
+- 👀 I’m interested in dApp development and MEV research
+- 🌱 I’m currently learning Rust and Smart Contract security
+- 💞️ I’m looking to collaborate on dApp development and testing
+- 📫 You can reach me on Twitter at [0xMercvry](https://twitter.com/0xMercvry) or via email at [mercvry@hedgen.xyz](mailto:mercvry@hedgen.xyz)
